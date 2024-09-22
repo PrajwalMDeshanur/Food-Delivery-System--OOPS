@@ -1,31 +1,37 @@
 # Food Service System
 
-## Project Summary
-A C++ project demonstrating OOP and DSA concepts. The system allows customers to create accounts, select restaurants, and place orders. It uses Dijkstra’s algorithm to find the shortest route between the customer and the restaurant.
+## Project Overview
+A C++ project demonstrating Object-Oriented Programming (OOP) and Data Structures and Algorithms (DSA). The system allows customers to create accounts, select restaurants, and place orders, using Dijkstra’s algorithm to find the shortest path for delivery.
 
 ## Key Features
-- **Account Management**: Customers can create accounts with encrypted passwords.
-- **Order Placement**: Customers can select restaurants and place orders, which are stored in individual files.
-- **Shortest Route Calculation**: Uses Dijkstra’s algorithm to determine the quickest path for delivery.
+- **Account Management**: Create customer accounts with encrypted passwords using Shift Cipher.
+- **Order Processing**: Place orders with restaurants and store details in files.
+- **Shortest Path Calculation**: Use Dijkstra's algorithm to find the shortest route between customer and restaurant.
 
-## Technical Highlights
-- **Language**: C++
-- **Encryption**: Shift Cipher for password security.
-- **Algorithm**: Dijkstra’s algorithm for route optimization.
-- **Data Storage**: Customer and order details stored in text files.
+## Concepts Used
+
+### OOP Concepts
+- **Classes & Objects**: Separate classes for customers, orders, and restaurants.
+- **Inheritance & Encapsulation**: Inheritance for shared attributes and methods; encapsulation for data security.
+- **Polymorphism**: Overloaded functions and methods for various operations.
+
+### DSA Concepts
+- **Graphs**: Locations represented as nodes, paths as edges.
+- **Dijkstra's Algorithm**: Finds the shortest path for delivery.
+- **File Handling**: Persistent storage of customer data and order history.
 
 ## File Descriptions
-- **`FoodServiceSys.cpp`**: Main program file containing the implementation of the system.
-- **`graph.txt`**: Stores location and distance data used by Dijkstra’s algorithm.
-- **`James.txt`, `Jay.txt`**: Customer account details, including name, ID, and encrypted password.
-- **`James_order.txt`, `Jay_order.txt`**: Order histories, including restaurant name, dish, quantity, and user location.
+- **`FoodServiceSys.cpp`**: Main code file with implementation of the system.
+- **`graph.txt`**: Graph data for locations and distances.
+- **`James.txt`, `Jay.txt`**: Customer account details.
+- **`James_order.txt`, `Jay_order.txt`**: Order histories.
 
 ## How to Run
 1. Compile `FoodServiceSys.cpp` using a C++ compiler.
-2. Run the executable generated.
-3. Follow the prompts to create accounts, place orders, and calculate the shortest route.
+2. Run the executable.
+3. Follow prompts to create accounts, place orders, and find the shortest route.
 
 ## Future Improvements
-- Implement a more secure encryption algorithm.
-- Add more restaurants and a dynamic menu system.
+- Enhance password security.
+- Add more restaurants and dynamic menu options.
 - Integrate real-time order tracking.
