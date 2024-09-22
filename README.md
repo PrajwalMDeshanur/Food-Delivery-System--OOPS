@@ -26,15 +26,3 @@ A C++ project demonstrating Object-Oriented Programming (OOP) and Data Structure
 - **`James.txt`, `Jay.txt`**: Customer account details.
 - **`James_order.txt`, `Jay_order.txt`**: Order histories.
 
-## How to Run
-1. Compile `FoodServiceSys.cpp` using a C++ compiler.
-2. Run the executable.
-3. Follow prompts to create accounts, place orders, and find the shortest route.
-
-## Future Improvements
-- Enhance password security.
-- Add more restaurants and dynamic menu options.
-- Integrate real-time order tracking.
-
-## Contributors
-- **[Your Name]**: Developer
