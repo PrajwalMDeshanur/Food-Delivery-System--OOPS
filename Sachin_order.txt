@@ -1,0 +1,18 @@
+Restaurant: Indian Delight
+Dish: Malai Kofta
+Quantity: 4
+User Location: 3
+Restaurant Location: 1
+Distance: 7 units
+Total Cost: ₹480
+Estimated Delivery Time: 3.5 seconds
+-----------------------------
+Restaurant: Indian Delight
+Dish: Malai Kofta
+Quantity: 2
+User Location: 3
+Restaurant Location: 1
+Distance: 7 units
+Total Cost: 240
+Estimated Delivery Time: 35 minutes
+-----------------------------

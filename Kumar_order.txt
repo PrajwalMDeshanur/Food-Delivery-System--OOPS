@@ -1,0 +1,7 @@
+Restaurant: Indian Delight
+Dish: Kofta
+Quantity: 2
+User Location: 3
+Restaurant Location: 1
+Distance: 7 units
+-----------------------------

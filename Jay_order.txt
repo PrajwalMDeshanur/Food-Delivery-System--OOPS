@@ -1,0 +1,14 @@
+Restaurant: Indian Delight
+Dish: fda
+Quantity: 1
+User Location: 3
+Restaurant: INd
+Dish: d
+
+Quantity: 2
+User Location: 3
+Restaurant: Indian
+Dish: k
+Quantity: 2
+User Location: 3
+-----------------------------

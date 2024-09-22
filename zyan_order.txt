@@ -1,0 +1,16 @@
+Restaurant: Indian Delight
+Dish: Malai Kofta
+Quantity: 10
+User Location: 6
+Restaurant Location: 1
+Distance: 9 units
+Total Cost: $120
+-----------------------------
+Restaurant: Curry Village
+Dish: Lamb Vindaloo
+Quantity: 5
+User Location: 6
+Restaurant Location: 4
+Distance: 20 units
+Total Cost: $90
+-----------------------------

@@ -1,0 +1,5 @@
+Taj Mahal,Chicken Biryani,150,3
+Bombay Palace,Butter Chicken,200,5
+Spice House,Chole Bhature,100,2
+Curry Village,Lamb Vindaloo,180,4
+Indian Delight,Malai Kofta,120,1
